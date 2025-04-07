@@ -35,6 +35,4 @@ Check out my repositories to see the applications I've built using:
 
 ---
 
-### 📫 How to reach me:
 
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/piotr-kotowski-66b82935a/)) or message me here on GitHub.
