@@ -29,12 +29,10 @@ Check out my repositories to see the applications I've built using:
 - 🎹 I play piano and completed 1st degree music school  
 - 🥋 I train kickboxing and enjoy fitness/sports  
 - 🎮 Former captain of an e-sports team (**FIMB**, League of Legends)  
-  - 🥇 1st place – Rector's Cup (PWSZ/KPU in Krosno)  
-  - 🥈 2nd place – High School Tournament  
 - 🎧 I love music and enjoy composing in my free time
 
 ---
 
 ### 📫 How to reach me:
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) *(add your link!)* or message me here on GitHub.
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/piotr-kotowski-66b82935a/)) or message me here on GitHub.
